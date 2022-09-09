@@ -72,5 +72,7 @@ import UserCard from './userCard.vue';
     .active {
         background-color: blanchedalmond;
         color: black;
+        font-size: 1.1rem;
+        scale: 1.05;
     }
 </style>
