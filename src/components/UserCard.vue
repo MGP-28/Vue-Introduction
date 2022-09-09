@@ -98,12 +98,15 @@
     }
     .anim-spinner{
         animation: spin 1.5s linear infinite;
+        font-size: 2rem;
     }
     .cardContainer{
         padding-top: 50px;
         padding-bottom: 50px;
     }
     img{
+        height: 150px;
+        width: 150px;
         border: 0.5px solid blanchedalmond;
         border-radius: 50%;
         margin-bottom: 10px;
